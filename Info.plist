@@ -30,7 +30,7 @@
 			<string>com.kdt.livecontainer.urlscheme</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>livecontainer</string>
+				<string>livecontainerroot</string>
 			</array>
 		</dict>
 	</array>
